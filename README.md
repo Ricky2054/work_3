@@ -1,8 +1,8 @@
-# Django-Ecommerce
+# Work_3
 
 # Installation
 
-`git clone https://github.com/zinmyoswe/Django-Ecommerce.git`
+`git clone `
 
 `cd Django-Ecommerce`
 
