@@ -4,11 +4,10 @@
 
 `git clone https://github.com/Ricky2054/work_3.git`
 
-`cd Django-Ecommerce`
+`cd work_3`
 
-`pip install virtualenv`
-
-`virtualenv env`
+'python -m venv myenv'
+'myenv\Scripts\activate'
 
 # For Mac/ Linux
 
