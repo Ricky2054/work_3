@@ -2,7 +2,7 @@
 
 # Installation
 
-`git clone `
+`git clone https://github.com/Ricky2054/work_3.git`
 
 `cd Django-Ecommerce`
 
